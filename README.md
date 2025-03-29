@@ -9,6 +9,7 @@ About & Contact Sections – Provides information about me and ways to connect
 
 Live Demo 🚀
 
+https://hariamar07.github.io/portfolio-simple-website/
 
 🚀 Technologies Used
   - HTML
