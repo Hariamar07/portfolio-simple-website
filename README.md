@@ -10,7 +10,7 @@ About & Contact Sections – Provides information about me and ways to connect
 Live Demo 🚀
 
 
-# Technology used
+🚀 Technologies Used
   - HTML
   - CSS
 
